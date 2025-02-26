@@ -6,9 +6,6 @@
 Hackathon Goals
 Our primary goal during the hackathon is to develop a robust proof-of-concept that demonstrates the powerful synergy between classic FPS gameplay and modern blockchain technology. We aim to showcase how smart contracts can create secure, transparent in-game economies while pushing the boundaries of interactive, strategic gameplay.
 
-Beyond the Hackathon
-0xCaliber is not just a hackathon project—it’s a vision for the future of gaming. Our long-term mission includes:
-
 Revolutionizing In-Game Economics: Empower players to invest in their gaming experience by integrating real-world crypto rewards into every match.
 Expanding Blockchain Integration: Achieve seamless interoperability across multiple blockchain networks, enhancing both accessibility and liquidity.
 Continuous Innovation: Evolve gameplay mechanics and integrate emerging technologies to keep the experience fresh, engaging, and competitive.
