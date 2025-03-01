@@ -35,12 +35,12 @@ Below is an overview of the key bounties we are targeting, along with the ration
 ## Mission
 
 ### Hackathon Mission
-Our primary goal during the hackathon is to show a proof of concept of a realtime and fun 3d blockchain game which is pay to play but skill based earnings instead of scheduled/login reward based..
+Our primary goal during the hackathon is to show a proof of concept of a realtime 3d blockchain first-person shooter game which has pay to play elements but skill based earnings instead of scheduled/login reward based like many games currently do today..
 
 ### Beyond the Hackathon
 0xCaliber is not just a hackathon project—it’s a vision for the future of gaming. Our long-term mission includes:
 
-- **Hardening:** There are numerous parts of the contracts that require trust. We are trying to work through this with a well thought solution using merkle trees.
-- **Enhancing the UI/UX:** The ui/ux experience is weak at best and honestly incomplete in some areas. We just did not have enough man hours to cover all of the corners in order to make something that is truly production worthy during the hackathon.
+- **Hardening:** There are numerous parts of the contracts that require unnecessary and unsafe levels of trust. We intend to work through this with a solution using merkle trees.
+- **Enhancing the UI/UX:** The ui/ux experience is weak at best and honestly incomplete in some areas. We just did not have enough man-hours to cover all of the corners in order to make something that is truly production worthy during the hackathon.
 
 ---
