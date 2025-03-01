@@ -13,6 +13,10 @@ ContactHere: ____
 
 0xCaliber is a multiplayer first-person shooter that blends classic FPS action with cutting-edge blockchain technology. In this game, every bullet is more than just ammo—it’s an investment. Players buy bullets through a smart contract, locking in their resources before entering intense, fast-paced battles. With its unique pay-to-play model and integration across multiple blockchains, 0xCaliber offers a fresh, strategic twist on gaming. Get ready to aim, shoot, and win crypto across various participating blockchains.
 
+**ALEX PLS REVIEW THIS HUMAN SLOP I WROTE**
+This game was designed by only 2 individuals in a hectic buidl setting. We are asking you to be understanding when reviewing our entry that we tried to make a heavier focus on intended flows and some things are just too complex to actually get a full implementation (and be worth the time in a hackathon setting)
+ and so we had to eventually decide that we would "play pretend" with some parts of the application flow in hopes that we will be able to explain to the judges/audience that the missing pieces are not foundational technologies/problems that need to be figured out. They were just too big of a bite to swallow during the hackathon.
+ **ALEX PLS REVIEW THIS HUMAN SLOP I WROTE**
 ---
 Unity game repo: https://github.com/spragu/0xCaliber-game-ethdenver-2025\
 ---
