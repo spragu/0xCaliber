@@ -3,10 +3,12 @@
 
 # Software Engineer
 Christopher Sprague
+
 Discord: cspragu
 
 # Business & Communications
 Alex ___
+
 ContactHere: ____
 
 
