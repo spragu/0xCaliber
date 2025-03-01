@@ -16,6 +16,9 @@ ContactHere: ____
 ---
 Unity game repo: https://github.com/spragu/0xCaliber-game-ethdenver-2025\
 ---
+---
+Companion app: https://github.com/spragu/0xCaliber-Companion
+---
 
 ## Bounties & Objectives
 
@@ -23,7 +26,7 @@ Below is an overview of the key bounties we are targeting, along with the ration
 
 | **Bounty Category**               | **Reason/Impact**                                          | **Technology Implementation**                                   |
 |-----------------------------------|------------------------------------------------------------|-----------------------------------------------------------------|
-| **ZKsync: Best Web3 Onboarding UX using Smart Sign-On (SSO) SDK**          | Top level account id backed by passkey. Useful because it can aggregate many wallets and other subidentities           | Companion app (wagmi) where users can register their master account: https://github.com/spragu/0xCaliber-Companion      |
+| **ZKsync: Best Web3 Onboarding UX using Smart Sign-On (SSO) SDK**          | Top level account id backed by passkey. Useful because it can aggregate many wallets and other subidentities           | Companion app (wagmi) where users can register their master account     |
 | **Build a mass consumer dApp fully on-chain, Create something new only possible with Somnia**          | We wanted a way to interact with our smart contracts to log bullets fired as fast as possible for usage in an anticheat/play verification system           | Websocket emitting events logging bullets fired on the chain.      |
 | **Only possible on ICP**          | We need a way to externally control the global regen/degen mode of the game in a decentralized manner. We were also planning on working in secure randomness on each subsequent timer invocation but ran out of buidl hours.           | ICP canister running global timer on an interval and alternating the isDegenMode bool that is publicly exposed in the canister for http calls so the unity game can poll degen/regen mode      |
 
