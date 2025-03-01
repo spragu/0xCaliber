@@ -11,12 +11,11 @@ Unity game repo: https://github.com/spragu/0xCaliber-game-ethdenver-2025\
 
 Below is an overview of the key bounties we are targeting, along with the rationale behind each and how we plan to implement the technology:
 
-| **Bounty Category**               | **Objective**                                                  | **Reason/Impact**                                          | **Technology Implementation**                                   |
-|-----------------------------------|----------------------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------------|
-| **Smart Contract Audit**          | Comprehensive review of in-game smart contracts                | Ensure security, transparency, and build player trust      | Utilize blockchain auditing tools and immutable ledger features  |
-| **Cross-Chain Compatibility**     | Integrate multiple blockchain networks for seamless transactions | Broaden market reach and enhance liquidity                  | Leverage bridging protocols and interoperability standards       |
-| **In-Game NFT Integration**       | Tokenize bullets and in-game assets as NFTs                     | Enable true digital asset ownership and foster trading      | Implement ERC-721/ERC-1155 standards and integrate NFT marketplaces|
-| **Gameplay Mechanics Optimization** | Refine core gameplay elements using blockchain incentives      | Create a unique, engaging FPS experience that stands out      | Combine real-time engine optimizations with smart contract logic   |
+| **Bounty Category**               | **Reason/Impact**                                          | **Technology Implementation**                                   |
+|-----------------------------------|------------------------------------------------------------|-----------------------------------------------------------------|
+| **ZKsync: Best Web3 Onboarding UX using Smart Sign-On (SSO) SDK**          | Top level account id backed by passkey. Useful because it can aggregate many wallets and other subidentities           | Companion app (wagmi) where users can register their master account: https://github.com/spragu/0xCaliber-Companion      |
+| **Somnia: Build a mass consumer dApp fully on-chain & Create something new only possible with Somnia**          | We wanted a way to interact with our smart contracts to log bullets fired as fast as possible for usage in an anticheat/play verification system           | Websocket emitting events logging bullets fired on the chain.      |
+
 
 ---
 
